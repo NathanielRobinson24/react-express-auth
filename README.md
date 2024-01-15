@@ -14,7 +14,7 @@ This repo can be used to start a React+Express project fully equipped with Auth 
 - Fork this template repo
 - Copy the `.env.template` and name it `.env`
 - Create a database called `react_auth_example` database (or update your new `.env` to whatever database you are using)
-- Double check that the `.env` variables are all correct (username, password, database name)
+- Double check that the `.env` variables are all correct (username, password, database name
 - `npm run kickstart` (`npm run dev` or `npm start` afterwards). This will do the following commands all together:
   - `cd front-end && npm i && cd ..` - installs front end dependencies
   - `npm i` - installs all dependencies
